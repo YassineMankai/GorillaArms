@@ -1,6 +1,6 @@
 # VR_GorillaArms
 
-This is a project for a course I took at Télécom Paris. This repository is a copy of wenjietseng's "VR-locomotion-parkour" repository. I added an implementation of a locomotion technique inspired by the game "Gorilla Tag" on steam.
+This is a project for a course I took at Télécom Paris. This repository is a copy of wenjietseng's ["VR-locomotion-parkour"](https://github.com/wenjietseng/VR-locomotion-parkour) repository. I added an implementation of a locomotion technique inspired by the game "Gorilla Tag" on steam.
  
 More details can be found on my [personal blog](https://yassinemankai.netlify.app/). The post is called "IGD301: Lab 4".
 
